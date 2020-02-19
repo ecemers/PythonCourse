@@ -79,4 +79,3 @@ class Portfolio(object):
 
     def history():
         pass
-    #¯\_(ツ)_/¯
